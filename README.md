@@ -1,4 +1,4 @@
-# Dog_Breed_DeepLearning
+# Dog_Breed_Classifier
 ---------------------------------------
 #Overview
 - This project is a deep learning-based image classification system designed to identify different dog breeds from images.
